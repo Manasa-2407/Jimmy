@@ -1,0 +1,176 @@
+[
+  {
+    "id": "fe88e9bf-d673-4e21-a05d-c9423acc3d9f",
+    "data": [
+      {
+        "text": "would you please convert 100 ",
+        "userDefined": false
+      },
+      {
+        "text": "ruble",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "usd",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17fe7f3b-1cda-4115-862d-5dfa160f730c",
+    "data": [
+      {
+        "text": "i want to convert ",
+        "userDefined": false
+      },
+      {
+        "text": "100 yen",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "inr",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e535f6c-0e78-4f48-ad09-ac1a3a2cc7f0",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "100 taka",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "euros",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a23ce95-da12-4eb0-acb0-722dffa67d83",
+    "data": [
+      {
+        "text": "convert ",
+        "userDefined": false
+      },
+      {
+        "text": "15 euros",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "rupees",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b75042-a3c9-4640-be21-6139c4181bc0",
+    "data": [
+      {
+        "text": "please convert ",
+        "userDefined": false
+      },
+      {
+        "text": "200 pounds",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "rupees",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c86d41c2-0ba0-4372-bc90-1b28b88aa0a6",
+    "data": [
+      {
+        "text": "can you convert ",
+        "userDefined": false
+      },
+      {
+        "text": "500 rupees",
+        "meta": "@sys.unit-currency",
+        "alias": "unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "us dollars",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
